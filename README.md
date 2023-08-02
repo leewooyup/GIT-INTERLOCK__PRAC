@@ -1,0 +1,2 @@
+# GIT-INTERLOCK__PRAC
+GIT 연동 연습
